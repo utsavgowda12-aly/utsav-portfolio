@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Web2Apps logo</title>
+  <defs>
+    <linearGradient id="g" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c82aef"/>
+      <stop offset="1" stop-color="#ff6a4d"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#g)"/>
+  <path d="M104 151h67l45 203 40-151h55l40 151 45-203h67l-77 250h-65l-38-139-38 139h-65L104 151Z" fill="#fff"/>
+</svg>
